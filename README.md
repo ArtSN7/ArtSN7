@@ -1,7 +1,6 @@
 </div>
 <p></p>
 <p align="justify">
-Hey!
 
 </p>
 
